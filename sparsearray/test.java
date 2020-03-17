@@ -1,5 +1,6 @@
 package sparsearray;
 
+
 public class test {
     public static void main(String[] arg) {
         // 原始数组
@@ -69,5 +70,7 @@ public class test {
             }
             System.out.println();
         }
+
+       
     }
 }
