@@ -30,7 +30,7 @@ public class ArrayStackDemo {
                         int res = stack.pop();
                         System.out.printf("出栈的数据是 %d\n", res);
                     } catch (Exception e) {
-                        // TODO: handle exception
+                        // 
                         System.out.println(e.getMessage());
                     }
                     break;
